@@ -26,7 +26,7 @@
             <td style="text-align: center"><span>Issue Manager Developer</span></td>
             <td style="text-align: center"><span>DB Manager Developer</span></td>
             <td style="text-align: center"><span>Test Manager Developer</span></td>
-        </tr>`
+        </tr>
         <tr>
             <td style="text-align: center"><span>gitHub</span></td>
             <td style="text-align: center"><a href="https://github.com/AvailableWoo"><strong>AvailableWoo</strong></a></td>
@@ -35,7 +35,7 @@
             <td style="text-align: center"><a href="https://github.com/Whdbeom"><strong>Whdbeom</strong></a></td>
             <td style="text-align: center"><a href="https://github.com/JINILEEE"><strong>JINILEEE </strong></a></td>
             <td style="text-align: center"><a href="https://github.com/rinklove"><strong>rinklove</strong></a></td>
-        </tr>`
+        </tr>
         <tr>
             <td style="text-align: center"><span>Contributions</span></td>
             <td style="text-align: center">
@@ -65,7 +65,7 @@
                 <span>리뷰 관련 기능</span><br> 
                 <span>상영정보 관련 기능</span><br>
             </td>
-        </tr>`
+        </tr>
     </tbody>
 </table>
 
